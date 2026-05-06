@@ -1,4 +1,4 @@
-# WordSet Engine — библиотека для анализа и индексации текста
+# WordSet — библиотека для анализа и индексации текста
 
 [![Java Version](https://img.shields.io/badge/Java-17%2B-blue)](https://www.oracle.com/java/)
 [![JUnit](https://img.shields.io/badge/JUnit-5-green)](https://junit.org/junit5/)
@@ -53,10 +53,10 @@
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/Verdandiii/wordset-engine.git
+git clone https://github.com/Verdandiii/wordset.git
 
 # 2. Перейти в папку с исходниками
-cd wordset-engine/src
+cd wordset/src
 
 # 3. Скомпилировать
 javac Main.java
